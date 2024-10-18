@@ -1,8 +1,8 @@
 {
 	"name": "wnview",
 	"version": "1.0.0",
-	"main": "lib/index.js",
-	"module": "es/index.js",
+	"main": "dist/lib/index.js",
+	"module": "dist/es/index.js",
 	"scripts": {
 		"build": "vite build"
 	},
@@ -17,7 +17,7 @@
 	"author": "WN",
 	"license": "MIT",
 	"description": "",
-	"typings": "lib/index.d.ts",
+	"typings": "dist/lib/index.d.ts",
 	"sideEffects": [
 		"**/*.css"
 	]

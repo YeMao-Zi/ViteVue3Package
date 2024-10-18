@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "pnpm --filter examples serve",
+    "build": "pnpm --filter wnview build"
   },
   "keywords": [],
   "author": "",

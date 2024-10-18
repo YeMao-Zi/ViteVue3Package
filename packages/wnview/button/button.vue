@@ -1,7 +1,7 @@
 <template>
   <div>
     <button>
-      <span class="text">测试</span>
+      <span class="text123123">测试</span>
     </button>
   </div>
 </template>
